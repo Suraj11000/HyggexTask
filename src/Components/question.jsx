@@ -50,7 +50,7 @@ const Question = () => {
         <img src={pow} alt="" />
         <div className="flex items-center">
           <img src={plus} alt="" />
-          <p>Create Flashcard</p>
+          <p className=" mr-8">Create Flashcard</p>
         </div>
       </div>
     </Fragment>
